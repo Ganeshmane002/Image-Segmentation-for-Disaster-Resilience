@@ -120,13 +120,14 @@ Input Satellite Image → Ground Truth Mask → Predicted Mask
 
 ## Project Structure
 Image-Segmentation-Disaster-Resilience/
-
 │
+├── dataset/
+├── notebooks/
+├── models/
 ├── app.py
-├── disaster_segmentation_unet.h5
 ├── requirements.txt
 ├── README.md
-└── screenshots/
+└── disaster_segmentation_unet.h5
 ---
 
 ## Future Improvements
